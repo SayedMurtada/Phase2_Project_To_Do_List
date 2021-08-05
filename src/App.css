@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+li{
+  min-width: 20%;
+}
+
+body{
+  background-image: url('Images/BackGround_img.jpg');
+  background-repeat: no-repeat;
+}
+
+label, h1 {
+  color: white;
+}
+
